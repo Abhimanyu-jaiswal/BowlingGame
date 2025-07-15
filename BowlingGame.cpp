@@ -90,3 +90,9 @@ int main() {
     
     return 0;
 }
+
+
+// 1. strike on the first try
+// 2. sum of two try should not be greater than 10(MACRO) max pin, max_frame;
+// 3. no character is allowed
+
